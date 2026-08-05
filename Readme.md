@@ -137,3 +137,47 @@ using a scenario switch mechanism.
 - Reliance Industries Investor Presentations
 - NSE market data
 - Analyst assumptions and valuation framework
+
+---
+
+## Model Architecture
+
+The valuation model follows a structured equity research workflow:
+Historical Financial Data
+↓
+Segment Analysis
+↓
+Forecast Assumptions & Drivers
+↓
+Three Statement Projections
+↓
+FCFF DCF Valuation
+↓
+SOTP Valuation
+↓
+Sensitivity Analysis
+↓
+Investment Recommendation
+
+---
+
+## Key Model Features
+
+✓ Integrated three-statement financial model  
+✓ Segment-level forecasting for Jio, Retail, O2C and Oil & Gas  
+✓ FCFF-based DCF valuation  
+✓ Sum-of-the-Parts valuation framework  
+✓ Bull/Base/Bear scenario switch  
+✓ DCF and SOTP sensitivity analysis  
+✓ Investor dashboard with valuation summary  
+
+---
+## Key Risks
+
+- O2C profitability remains sensitive to global refining margins and commodity cycles.
+- Telecom growth assumptions depend on successful 5G monetisation and ARPU expansion.
+- Retail valuation depends on sustained store productivity and margin improvement.
+- Higher interest rates could impact valuation multiples and DCF assumptions.
+- Regulatory changes may affect key business segments.
+
+---
