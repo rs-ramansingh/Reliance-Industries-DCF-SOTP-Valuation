@@ -163,13 +163,13 @@ Investment Recommendation
 
 ## Key Model Features
 
-✓ Integrated three-statement financial model  
-✓ Segment-level forecasting for Jio, Retail, O2C and Oil & Gas  
-✓ FCFF-based DCF valuation  
-✓ Sum-of-the-Parts valuation framework  
-✓ Bull/Base/Bear scenario switch  
-✓ DCF and SOTP sensitivity analysis  
-✓ Investor dashboard with valuation summary  
+- [x] Integrated three-statement financial model
+- [x] Segment-level forecasting for Jio, Retail, O2C and Oil & Gas
+- [x] FCFF-based DCF valuation
+- [x] Sum-of-the-Parts (SOTP) valuation framework
+- [x] Bull/Base/Bear scenario switch
+- [x] DCF and SOTP sensitivity analysis
+- [x] Investor dashboard with valuation summary
 
 ---
 ## Key Risks
