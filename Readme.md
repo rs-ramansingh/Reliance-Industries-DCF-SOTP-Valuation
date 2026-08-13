@@ -192,9 +192,9 @@ Because Reliance is a diversified conglomerate, the analysis does not apply a si
 | Reliance Segment | Primary Comparable | Relevance |
 |---|---|---:|
 | Digital Services (Jio) | Bharti Airtel | High |
-| Reliance Retail | Avenue Supermarts (DMart) | High |
+| Reliance Retail | Avenue Supermarts (DMart) | Moderate-High |
 | Oil-to-Chemicals (O2C) | Indian Oil Corporation | Moderate |
-| Oil & Gas (E&P) | ONGC | High |
+| Oil & Gas (E&P) | ONGC | Moderate-High |
 | Diversified / Corporate | Adani Enterprises | Reference |
 
 Comparable multiples are treated as **observable market anchors rather than mechanically transferable terminal multiples**.
