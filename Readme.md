@@ -325,9 +325,9 @@ This blended framework is then evaluated under three operating scenarios generat
 
 | Scenario | Implied Share Price | Current Price | Implied Upside / (Downside) |
 | -------- | ------------------: | ------------: | --------------------------: |
-| Bear     | ₹952.17             | ₹1,310.00     | **-27.3%** |
-| Base     | ₹1,386.72           | ₹1,310.00     | **+5.9%** |
-| Bull     | ₹1,854.68           | ₹1,310.00     | **+41.6%** |
+| Bear     | ₹989.63            | ₹1,310.00     | **-24.46%** |
+| Base     | ₹1,403.60          | ₹1,310.00     | **+7.15%** |
+| Bull     | ₹1,959.14          | ₹1,310.00     | **+49.55%** |
 
 The scenario outputs are generated directly from the integrated operating model and therefore represent the **primary valuation framework** for the investment case.
 
@@ -339,9 +339,9 @@ The scenario outputs are generated directly from the integrated operating model 
 | Retail EBITDA Margin FY27 | 9.53% | 8.03% | 6.53% |
 | O2C GRM FY27 ($/bbl) | 13.03 | 10.78 | 8.53 |
 | Consolidated EBITDA FY27 | ₹2,40,759 Cr | ₹2,30,018 Cr | ₹2,19,544 Cr |
-| DCF Target Price | ₹1,934.85 | ₹1,344.98 | ₹624.36 |
-| SOTP Target Price | ₹1,834.64 | ₹1,397.15 | ₹1,034.12 |
-| **Weighted Target Price** | **₹1,854.68** | **₹1,386.72** | **₹952.17** |
+| DCF Target Price | ₹2,293.68 | ₹1,342.45 | ₹780.32 |
+| SOTP Target Price | ₹1,875.50 | ₹1,418.89 | ₹1,041.96 |
+| **Weighted Target Price** | **₹1,959.14** | **₹1,403.60** | **₹989.63** |
 
 The scenario framework demonstrates that valuation is particularly sensitive to **Jio subscriber growth, Retail margin expansion and O2C margin normalization**.
 
@@ -363,11 +363,11 @@ The Main Model is driven by:
 
 The resulting scenario range is:
 
-**₹952 – ₹1,855 per share**
+**₹990 – ₹1,960 per share**
 
 with a Base Case valuation of:
 
-**₹1,386.72 per share**
+**₹1,403.60 per share**
 
 ### Independent Relative Cross-Check
 
@@ -375,10 +375,10 @@ The four-string framework provides an independent market-based reference:
 
 | Valuation String | Methodology | Implied Target |
 | ---------------- | ----------- | -------------: |
-| Relative Pricing | Consolidated Comparable Company Analysis | ₹1,724.51 |
-| Structural Valuation | Relative Market-Metric SOTP | ₹1,219.09 |
-| Intrinsic Anchor | DCF — Perpetuity Growth | ₹1,219.07 |
-| Integrated Intrinsic | DCF — Segment Exit Multiple | ₹1,454.37 |
+| Relative Pricing | Consolidated Comparable Company Analysis | ₹1,660.20 |
+| Structural Valuation | Relative Market-Metric SOTP | ₹1,227.36 |
+| Intrinsic Anchor | DCF — Perpetuity Growth | ₹1,199.44 |
+| Integrated Intrinsic | DCF — Segment Exit Multiple | ₹1,479.57 |
 
 The relative valuation is **not mechanically blended with the Main Model**.
 
@@ -463,7 +463,7 @@ The resulting valuation dispersion should be interpreted as a representation of 
                  ┌────────────┼────────────┐
                  ▼            ▼            ▼
                Bear         Base         Bull
-             ₹952.17      ₹1,386.72    ₹1,854.68
+             ₹989.63     ₹1,403.60    ₹1,959.14
 ```
 ```text
 
@@ -475,11 +475,11 @@ The resulting valuation dispersion should be interpreted as a representation of 
           ┌───────────────────┼───────────────────┐
           │                   │                   │
           ▼                   ▼                   ▼
-      Relative CCA     Market-Metric SOTP    DCF Cross-Checks
-      ₹1,724.51            ₹1,219.09       ┌────────┴────────┐
-                                           ▼                 ▼
-                                        Perpetuity      Exit Multiple
-                                        ₹1,219.07      ₹1,454.37
+      Relative CCA    Market-Metric SOTP    DCF Cross-Checks
+      ₹1,660.20           ₹1,227.36       ┌────────┴────────┐
+                                          ▼                 ▼
+                                      Perpetuity     Exit Multiple
+                                        ₹1,199.44      ₹1,479.57
 ```
 
 ## Model Workbook Structure
