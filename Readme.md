@@ -43,7 +43,7 @@ A separate four-string valuation framework is used to benchmark the primary valu
 | Valuation String | Methodology | Analytical Role |
 |---|---|---|
 | Relative Pricing | Consolidated Comparable Company Analysis | Market-relative valuation cross-check |
-| Structural Valuation | Market-Metric SOTP | Break-up value under current market multiples |
+| Structural Valuation |Relative Market-Metric SOTP | Break-up value under current market multiples |
 | Intrinsic Anchor | FCFF DCF — Perpetuity Growth | Consolidated intrinsic-value anchor |
 | Integrated Intrinsic | FCFF DCF — Segment Exit Multiple | Terminal valuation using segment-specific multiples |
 
