@@ -484,35 +484,38 @@ The resulting valuation dispersion should be interpreted as a representation of 
 
 ## Model Workbook Structure
 
-Assumptions Sheets:
-  • 01_Overview — Model summary & current price
-  • 07_Forecast_Assumptions — Revenue/margin/capex assumptions (scenario switch in D2)
+### Assumptions
 
-Historical Analysis:
-  • 02_Consolidated_Historical_Data — 5-year P&L
-  • 03_Consolidated_Balance_Sheet — Historical BS  
-  • 04_Consolidated_Cash_Flow — Historical CF
-  • 05_Segment_Historical_Raw_Data — Segment-level metrics
-  • 06_Calculated_Ratios — Historical ratio trends
+- `01_Overview` — Model summary & current price
+- `07_Forecast_Assumptions` — Revenue, margin and capex assumptions (scenario switch in D2)
 
-Projections:
-  • 08_Three_Statement_Projections — Integrated P&L/BS/CF forecast FY27-31E
-  • 08A_Balance_Sheet_Support_Schedule — Fixed asset detail
-  • 09_Free_Cash_Flow_Schedule — FCFF calculation
+### Historical Analysis
 
-Valuation Outputs:
-  • 10_DCF_Valuation — Perpetuity growth DCF (Cell F50: per share target)
-  • 11_SOTP_Valuation — Segment-level DCF valuation (Cell F50: per share target)
-  • 12_Scenario_Analysis_Dashboard — Bull/Base/Bear valuation outputs
-  • 13_Executive_Summary — Final investment recommendation
-  • 14_Key_Metrics_Dashboard — Key valuation metrics
-  • 15_DCF_Sensitivity_Analysis — WACC × Terminal Growth table
-  • 16_Relative_Valuation:
-    - SOTP_Methodology sheet
-    - DCF_vs_Comps_Reconciliation sheet
-    - Bull_Base_Bear_Scenarios sheet
-  • 17_Final Valuation_Dashboard
+- `02_Consolidated_Historical_Data` — 5-year P&L
+- `03_Consolidated_Balance_Sheet` — Historical balance sheet
+- `04_Consolidated_Cash_Flow` — Historical cash flow
+- `05_Segment_Historical_Raw_Data` — Segment-level metrics
+- `06_Calculated_Ratios` — Historical ratio trends
 
+### Projections
+
+- `08_Three_Statement_Projections` — Integrated P&L / BS / CF forecast FY2027–31E
+- `08A_Balance_Sheet_Support_Schedule` — Fixed asset detail
+- `09_Free_Cash_Flow_Schedule` — FCFF calculation
+
+### Valuation Outputs
+
+- `10_DCF_Valuation` — Perpetuity-growth DCF
+- `11_SOTP_Valuation` — Segment-level SOTP valuation
+- `12_Scenario_Analysis_Dashboard` — Bull / Base / Bear valuation outputs
+- `13_Executive_Summary` — Final investment recommendation
+- `14_Key_Metrics_Dashboard` — Key valuation metrics
+- `15_DCF_Sensitivity_Analysis` — WACC × Terminal Growth sensitivity
+- `16_Relative_Valuation`
+  - `SOTP_Methodology` — Relative SOTP methodology
+  - `DCF_vs_Comps_Reconciliation` — DCF vs. comparable-company reconciliation
+  - `Bull_Base_Bear_Scenarios` — Relative valuation scenario analysis
+- `17_Final_Valuation_Dashboard` — Consolidated final valuation dashboard
 
 ---
 
